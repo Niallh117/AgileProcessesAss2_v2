@@ -1,0 +1,15 @@
+{
+  "name": "AgileProcesses",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexChmiel/AgileProcesses"
+  },
+  "description": "NodeJS application for Agile Processes Assignment",
+  "version": "1.0.0",
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  },
+  "scripts": {
+    "test": "./node_modules/jshint/bin/jshint hello.js"
+  }
+}
