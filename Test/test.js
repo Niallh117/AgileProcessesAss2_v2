@@ -1,7 +1,7 @@
 
 var assert = require('assert'),
     should = require('should'),
-    expect = require('chai').expect;
+    expect = require('chai').expect
 
 
 var answer;
