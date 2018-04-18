@@ -3,6 +3,7 @@ var assert = require('assert'),
     should = require('should'),
     expect = require('chai').expect;
 var hello = "hello";
+var testing =123;
 
 var answer;
 var user = {
