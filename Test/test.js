@@ -2,7 +2,7 @@
 var assert = require('assert'),
     should = require('should'),
     expect = require('chai').expect;
-
+var hello = "hello";
 
 var answer;
 var user = {
